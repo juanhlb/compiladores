@@ -1,0 +1,11 @@
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\compilador\compilador\bin\Debug\compilador.exe
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\compilador\compilador\bin\Debug\compilador.pdb
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\compilador\compilador\bin\Debug\compilador.xml
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\compilador\compilador\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\compilador\compilador\obj\Debug\WindowsApplication1.Compilador.resources
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\compilador\compilador\obj\Debug\WindowsApplication1.FRMacercade.resources
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\compilador\compilador\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\compilador\compilador\obj\Debug\compilador.vbproj.GenerateResource.Cache
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\compilador\compilador\obj\Debug\compilador.exe
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\compilador\compilador\obj\Debug\compilador.xml
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\compilador\compilador\obj\Debug\compilador.pdb

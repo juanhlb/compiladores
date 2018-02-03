@@ -1,0 +1,11 @@
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\compilador\compilador\bin\Release\compilador.exe
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\compilador\compilador\bin\Release\compilador.pdb
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\compilador\compilador\bin\Release\compilador.xml
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\compilador\compilador\obj\Release\ResolveAssemblyReference.cache
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\compilador\compilador\obj\Release\WindowsApplication1.Compilador.resources
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\compilador\compilador\obj\Release\WindowsApplication1.FRMacercade.resources
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\compilador\compilador\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\compilador\compilador\obj\Release\compilador.vbproj.GenerateResource.Cache
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\compilador\compilador\obj\Release\compilador.exe
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\compilador\compilador\obj\Release\compilador.xml
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\compilador\compilador\obj\Release\compilador.pdb
